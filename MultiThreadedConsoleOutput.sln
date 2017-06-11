@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadedConsoleOutput", "ThreadedConsoleOutput\ThreadedConsoleOutput.csproj", "{C267A31E-E481-4065-A395-A7D2A2D263ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedConsoleOutput", "ThreadedConsoleOutput\MultiThreadedConsoleOutput.csproj", "{C267A31E-E481-4065-A395-A7D2A2D263ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
